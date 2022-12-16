@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+C:/Electronics/Projects/espidf-vscode-example-blink/blink/build/CMakeFiles/bootloader
+C:/Electronics/Projects/espidf-vscode-example-blink/blink/build/CMakeFiles/bootloader.rule
+C:/Electronics/Projects/espidf-vscode-example-blink/blink/build/CMakeFiles/bootloader-complete.rule
+C:/Electronics/Projects/espidf-vscode-example-blink/blink/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+C:/Electronics/Projects/espidf-vscode-example-blink/blink/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+C:/Electronics/Projects/espidf-vscode-example-blink/blink/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+C:/Electronics/Projects/espidf-vscode-example-blink/blink/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
+C:/Electronics/Projects/espidf-vscode-example-blink/blink/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+C:/Electronics/Projects/espidf-vscode-example-blink/blink/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+C:/Electronics/Projects/espidf-vscode-example-blink/blink/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule

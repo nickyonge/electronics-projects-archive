@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Electronics/Projects/espidf-led-example-proj/led_strip/build/CMakeFiles/bootloader"
+		},
+		{
+			"file" : "C:/Electronics/Projects/espidf-led-example-proj/led_strip/build/CMakeFiles/bootloader.rule"
+		},
+		{
+			"file" : "C:/Electronics/Projects/espidf-led-example-proj/led_strip/build/CMakeFiles/bootloader-complete.rule"
+		},
+		{
+			"file" : "C:/Electronics/Projects/espidf-led-example-proj/led_strip/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule"
+		},
+		{
+			"file" : "C:/Electronics/Projects/espidf-led-example-proj/led_strip/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule"
+		},
+		{
+			"file" : "C:/Electronics/Projects/espidf-led-example-proj/led_strip/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule"
+		},
+		{
+			"file" : "C:/Electronics/Projects/espidf-led-example-proj/led_strip/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule"
+		},
+		{
+			"file" : "C:/Electronics/Projects/espidf-led-example-proj/led_strip/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule"
+		},
+		{
+			"file" : "C:/Electronics/Projects/espidf-led-example-proj/led_strip/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule"
+		},
+		{
+			"file" : "C:/Electronics/Projects/espidf-led-example-proj/led_strip/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"bootloader"
+		],
+		"name" : "bootloader"
+	}
+}
